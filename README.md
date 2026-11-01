@@ -47,11 +47,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EshaAshfaq-ITstudent&show_icons=true&hide_border=true&bg_color=0d1117&title_color=DB6B8F&icon_color=DB6B8F&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshaAshfaq-ITstudent&layout=compact&hide_border=true&bg_color=0d1117&title_color=DB6B8F&text_color=c9d1d9" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EshaAshfaq-ITstudent&hide_border=true&background=0d1117&ring=DB6B8F&fire=DB6B8F&currStreakLabel=DB6B8F&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 </p>
 
